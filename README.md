@@ -1,6 +1,5 @@
-# Revenue-Insights_Hospitality_Domain
-In this project, we aim to perform the data analysis on AtliQ grands hospitality company data. Tool used for the analysis are power BI
-
+Revenue-Insights-Hospitality-Domain
+In this project , we aim to perform the data analysis on AtliQ Grands hospitality company data . Tool used for the analysis are Power BI.
 
 Table of Contents
 Business Task
@@ -11,19 +10,16 @@ Live Dashboard
 Insights
 Recommendations
 Limitations
-
 Business Task
 To create the metrics according to metrics list and to create the dashboard acording to mockup provided by stakeholders.
 To gather relevant insights from the analysis to identify the areas of improvement.
-
 Problem Statement
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels. In recent times, AtliQ Grands has faced a decline in its market share and revenue due to strategic moves from competitors and ineffective decision-making in management. To tackle this issue, the managing director of AtliQ Grands has decided to incorporate "Business and Data Intelligence" to regain its market share and revenue. However, the company does not have an in-house data analytics team to provide insights from its historical data. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 Data Source
 Domain:
+
 Hospitality Domain
-
-
 Dataset Name:
 
 dim_date.csv
@@ -48,7 +44,6 @@ Handling the text values.
 Handled the null values in rating of hotel column by average imputation.
 Created calculated columns using DAX.
 Moved all measures to new table dedicated for measures only.
-
 Live Dashboard
 Power BI: https://app.powerbi.com/groups/me/reports/e73c5d7c-a2f4-4ed2-a198-8e2aa37da706/ReportSection8d1e1dc9587b4b3dbc7d?experience=power-bi
 
@@ -82,5 +77,3 @@ Limitations
 Analysis might provide insights at a specific point, continuous monitoring is required.
 Analysis is based on the historical data and this may be not true in future.
 Size of dataset is just 3 months and we could have identified more trends and patterns with more data collected over period of time.
-
-   
