@@ -48,6 +48,7 @@ Handling the text values.
 Handled the null values in rating of hotel column by average imputation.
 Created calculated columns using DAX.
 Moved all measures to new table dedicated for measures only.
+
 Live Dashboard
 Power BI: https://app.powerbi.com/groups/me/reports/e73c5d7c-a2f4-4ed2-a198-8e2aa37da706/ReportSection8d1e1dc9587b4b3dbc7d?experience=power-bi
 
